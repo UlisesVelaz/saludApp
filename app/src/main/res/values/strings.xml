@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">saludApp</string>
+    <string name="Btn_Show_Name">¡¡¡HOLA!!!</string>
+    <string name="Edit_Text_Name">Escribe tu nombre</string>
+</resources>
